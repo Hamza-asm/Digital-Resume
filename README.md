@@ -1,3 +1,4 @@
+[Website](https://hamza-asm.github.io/Digital-Resume/)
 # Digital Resume & Portfolio | Hamza Ali Khan
 
 A dynamic, front-end digital resume built with HTML, Tailwind CSS, and Lucide Icons. This repository hosts my professional portfolio, highlighting my background as a Computer Science Graduate and Data Scientist, alongside my technical projects and contact information.
